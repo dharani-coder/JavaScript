@@ -1,0 +1,71 @@
+.container
+{
+    background-color:black;
+    height:400px;
+    width:200px;
+    border-radius: 25px;
+    margin-top: 25px;
+    }
+.buton1
+{
+    border-radius: 50%;
+    height:60px;
+    width:60px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.buton2
+{
+    border-radius: 50%;
+    height:60px;
+    width:60px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.buton3
+{
+    border-radius: 50%;
+    height:60px;
+    width:60px;
+    margin-left: 50px;
+}
+.container1
+{
+    margin-top: 50px;
+}
+.text
+{
+color:blue;
+font-weight: 50px;
+text-align: center;
+}
+.buton10
+{
+    
+    height:60px;
+    width:60px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+
+.buton20
+{
+
+    height:60px;
+    width:60px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+
+.buton30
+{
+    
+    height:60px;
+    width:60px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+}
